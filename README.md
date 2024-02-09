@@ -11,13 +11,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-Social links profile solution
+Social links profile solution.
 
 ### Screenshot
 
@@ -25,13 +23,13 @@ Social links profile solution
 
 ### Links
 
-[Solution URL](https://github.com/sthefano-dev/social-link.profile)
-[Live Site URL](https://sthefano-dev.github.io/social-link.profile/)
+- [Solution URL](https://github.com/sthefano-dev/social-link.profile)
+- [Live Site URL](https://sthefano-dev.github.io/social-link.profile)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS Grid
+- Semantic HTML5 markup.
+- CSS Grid.
 
 ## Author
 
