@@ -25,8 +25,8 @@ Social links profile solution
 
 ### Links
 
-[Solution URL](https://your-solution-url.com)
-[Live Site URL](https://your-live-site-url.com)
+[Solution URL](https://github.com/sthefano-dev/social-link.profile)
+[Live Site URL](https://sthefano-dev.github.io/social-link.profile/)
 
 ### Built with
 
