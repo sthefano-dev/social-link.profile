@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 20%);
+    --dark-grey: hsl(0, 0%, 12%);
+    --off-black: hsl(0, 0%, 8%);
+    --border: 0.5rem
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--off-black);
+    color: var(--white);
+}
+
+p {
+    font-size: 14px;
+}
+
+img {
+    max-width: 100%;
+    clip-path: circle(50%);
+}
+
+.card-container {
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+.card {
+    width: 90vw;
+    max-width: 420px;
+    background-color: var(--dark-grey);
+    border-radius: var(--border);
+    padding: 2.5rem;
+    display: grid;
+    gap: 1.5rem;
+}
+
+.card-img-container img {
+    width: 35%;
+}
+
+.card-name {
+    font-weight: 600;
+}
+
+.card-country {
+    color: var(--green);
+    padding-top: 0.5rem;
+}
+
+.card-social-media {
+    display: grid;
+    gap: 1rem;
+}
+
+.card-social-media-link {
+    border-radius: var(--border);
+    text-decoration: none;
+    color: var(--white);
+    background-color: var(--grey);
+    padding: 1rem 0;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.card-social-media-link:hover {
+    background-color: var(--green);
+    color: var(--off-black);
+}
